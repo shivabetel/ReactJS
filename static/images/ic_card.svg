@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21.398 15.253">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #214796;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 1.4px;
+      }
+
+      .cls-2 {
+        fill: #214796;
+      }
+    </style>
+  </defs>
+  <g id="Group_15888" data-name="Group 15888" transform="translate(-9657.301 -3742.434)">
+    <g id="Group_1866" data-name="Group 1866" transform="translate(9658 3743.134)">
+      <line id="line" class="cls-1" x2="19.761" transform="translate(0.154 5.712)"/>
+      <g id="group-147">
+        <g id="group" transform="translate(0 0)">
+          <path id="path" class="cls-1" d="M23.463,18.853H6.537A1.548,1.548,0,0,1,5,17.316V6.537A1.548,1.548,0,0,1,6.537,5H23.463A1.541,1.541,0,0,1,25,6.537V17.305A1.543,1.543,0,0,1,23.463,18.853Z" transform="translate(-5 -5)"/>
+        </g>
+        <circle id="Ellipse_3853" data-name="Ellipse 3853" class="cls-2" cx="0.946" cy="0.946" r="0.946" transform="translate(10.959 7.41)"/>
+        <circle id="Ellipse_3854" data-name="Ellipse 3854" class="cls-2" cx="0.946" cy="0.946" r="0.946" transform="translate(13.797 7.41)"/>
+        <circle id="Ellipse_3855" data-name="Ellipse 3855" class="cls-2" cx="0.946" cy="0.946" r="0.946" transform="translate(16.634 7.41)"/>
+      </g>
+    </g>
+  </g>
+</svg>

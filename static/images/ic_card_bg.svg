@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 345.777 200.125">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #c2c2c2;
+      }
+
+      .cls-2 {
+        fill: url(#radial-gradient);
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-5 {
+        fill: #282e88;
+      }
+
+      .cls-6 {
+        fill: #fff;
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="0.952" cy="0.5" r="0.495" gradientTransform="matrix(0.582, 0, 0, 1.281, 0.398, -0.14)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#197fc1"/>
+      <stop offset="0.155" stop-color="#1984c6"/>
+      <stop offset="1" stop-color="#30247a"/>
+    </radialGradient>
+    <clipPath id="clip-path">
+      <rect id="rectangle-10" class="cls-1" width="345.365" height="200.125" rx="14" transform="translate(0 0)"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="1" y1="0.5" x2="0.075" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#df0000"/>
+      <stop offset="0.399" stop-color="#f38764"/>
+      <stop offset="0.744" stop-color="#fce4dc" stop-opacity="0.224"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_17473" data-name="Group 17473" transform="translate(-24232.635 2450.063)">
+    <rect id="rectangle-10-2" data-name="rectangle-10" class="cls-2" width="344" height="200.125" transform="translate(24234 -2450.063)"/>
+    <rect id="Rectangle_4704" data-name="Rectangle 4704" class="cls-4" width="269" height="17" transform="translate(24308 -2410)"/>
+    <path id="Path_11905" data-name="Path 11905" class="cls-5" d="M24113.824-2410.769l-8.137,41.307-30.154-11.488,20.967,31.032-29.088,19.873h31.656l-8.045,35.288,20.746-24.056,7.514,16.883v-82.305Z" transform="translate(458.131 -25)"/>
+    <path id="Path_11904" data-name="Path 11904" class="cls-6" d="M24119.826-2415.631l-11.055,45.128-27.9-15.052,16.545,33.321-30.006,16.17,32.2,6.02-6.09,37.33,18.791-26.1,7.514,16.883Z" transform="translate(458.586 -25)"/>
+  </g>
+</svg>

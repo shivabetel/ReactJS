@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30.398 31.867">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 1.4px;
+      }
+
+      .cls-1 {
+        stroke: #214796;
+      }
+
+      .cls-2 {
+        stroke: #000;
+      }
+
+      .cls-3 {
+        stroke: #214796;
+      }
+    </style>
+  </defs>
+  <g id="ic_linked_apps" transform="translate(75.184 -819.5) rotate(17)">
+    <path id="Path_5202" data-name="Path 5202" class="cls-1" d="M60.3,12.961,63,7.2a2.032,2.032,0,0,1,2.7-.964L71.3,8.889a2.032,2.032,0,0,1,.964,2.7l-5.6,11.827a2.032,2.032,0,0,1-2.7.964L60.362,22.69" transform="translate(124.663 795.387)"/>
+    <path id="Path_5203" data-name="Path 5203" class="cls-2" d="M29.7,115.9" transform="translate(150.508 702.597)"/>
+    <path id="Path_5204" data-name="Path 5204" class="cls-3" d="M18.618,81.843l-4.087-1.912a2.032,2.032,0,0,0-2.7.964L6.232,92.723a2.032,2.032,0,0,0,.964,2.7l5.595,2.658a2.032,2.032,0,0,0,2.7-.964l2.751-5.89" transform="translate(170.494 733.142)"/>
+  </g>
+</svg>

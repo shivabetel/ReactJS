@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-11191 1401 24 24">
+  <defs>
+    <style>
+      .cls-1, .cls-3, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1, .cls-3 {
+        stroke: #fff;
+        stroke-width: 1.4px;
+      }
+
+      .cls-1 {
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_17061" data-name="Group 17061" transform="translate(-11533 1119)">
+    <g id="Group_17060" data-name="Group 17060" transform="translate(344.4 284.4)">
+      <line id="Line_2751" data-name="Line 2751" class="cls-1" y2="4.137" transform="translate(9.577 9.303)"/>
+      <line id="Line_2752" data-name="Line 2752" class="cls-1" x2="2.24" transform="translate(8.457 13.441)"/>
+      <line id="Line_2753" data-name="Line 2753" class="cls-1" x2="1.12" transform="translate(8.457 9.303)"/>
+      <circle id="Ellipse_622" data-name="Ellipse 622" class="cls-2" cx="1.2" cy="1.2" r="1.2" transform="translate(8.274 4.743)"/>
+      <g id="Ellipse_623" data-name="Ellipse 623" class="cls-3" transform="translate(0 0)">
+        <circle class="cls-5" cx="9.6" cy="9.6" r="9.6"/>
+        <circle class="cls-4" cx="9.6" cy="9.6" r="8.9"/>
+      </g>
+    </g>
+    <rect id="Rectangle_4346" data-name="Rectangle 4346" class="cls-4" width="24" height="24" transform="translate(342 282)"/>
+  </g>
+</svg>

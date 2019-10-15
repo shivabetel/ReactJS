@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17.38 17.379">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #214796;
+        stroke-width: 1.4px;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #214796;
+        stroke: #214796;
+        stroke-linejoin: round;
+        stroke-width: 2.6px;
+      }
+    </style>
+  </defs>
+  <g id="ic_contacts" transform="translate(-327.3 -1737.301)">
+    <path id="Path_87" data-name="Path 87" class="cls-1" d="M16.682,3H5.174A2.3,2.3,0,0,0,3,5.3V16.682a2.294,2.294,0,0,0,2.3,2.3H16.682a2.3,2.3,0,0,0,2.3-2.195V5.3A2.294,2.294,0,0,0,16.682,3Z" transform="translate(325 1735)"/>
+    <ellipse id="Ellipse_67" data-name="Ellipse 67" class="cls-2" cx="1.128" cy="1.128" rx="1.128" ry="1.128" transform="translate(336.697 1742.41)"/>
+    <path id="Path_88" data-name="Path 88" class="cls-2" d="M36.9,48.272a2.872,2.872,0,1,1,5.744,0Z" transform="translate(298.054 1701.297)"/>
+    <line id="Line_81" data-name="Line 81" class="cls-1" y2="16" transform="translate(331.692 1738)"/>
+  </g>
+</svg>

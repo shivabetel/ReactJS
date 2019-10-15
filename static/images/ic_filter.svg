@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18.422 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #959595;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 1.4px;
+      }
+
+      .cls-2 {
+        fill: #959595;
+      }
+    </style>
+  </defs>
+  <g id="ic_filter" transform="translate(6138.722 -1089) rotate(90)">
+    <line id="Line_2719" data-name="Line 2719" class="cls-1" y2="17.021" transform="translate(1091.766 6121)"/>
+    <line id="Line_2720" data-name="Line 2720" class="cls-1" y2="17.021" transform="translate(1098.574 6121)"/>
+    <line id="Line_2721" data-name="Line 2721" class="cls-1" y2="17.021" transform="translate(1106.234 6121)"/>
+    <circle id="Ellipse_610" data-name="Ellipse 610" class="cls-2" cx="2.766" cy="2.766" r="2.766" transform="translate(1089 6129.511)"/>
+    <circle id="Ellipse_611" data-name="Ellipse 611" class="cls-2" cx="2.766" cy="2.766" r="2.766" transform="translate(1095.808 6122.448)"/>
+    <circle id="Ellipse_612" data-name="Ellipse 612" class="cls-2" cx="2.766" cy="2.766" r="2.766" transform="translate(1103.468 6126.958)"/>
+  </g>
+</svg>

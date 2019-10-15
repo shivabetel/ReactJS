@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 41.4 39.862">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #d7d7d7;
+        stroke-miterlimit: 10;
+        stroke-width: 1.4px;
+      }
+
+      .cls-2 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-3 {
+        fill: #d7d7d7;
+      }
+    </style>
+  </defs>
+  <g id="ic_image" transform="translate(0.7 0.7)">
+    <path id="Path_125" data-name="Path 125" class="cls-1" d="M6.077,3H39.923A3.086,3.086,0,0,1,43,6.077V38.385a3.086,3.086,0,0,1-3.077,3.077H6.077A3.086,3.086,0,0,1,3,38.385V6.077A3.086,3.086,0,0,1,6.077,3Z" transform="translate(-3 -3)"/>
+    <path id="Path_126" data-name="Path 126" class="cls-2" d="M39.1,38.215,49.562,27.754a.5.5,0,0,1,.718,0l10,10" transform="translate(-20.587 -14.985)"/>
+    <path id="Path_127" data-name="Path 127" class="cls-2" d="M4,52.719,17.077,39.59a.4.4,0,0,1,.564,0l9.487,9.487" transform="translate(-3.487 -20.77)"/>
+    <ellipse id="Ellipse_79" data-name="Ellipse 79" class="cls-3" cx="3.077" cy="3.077" rx="3.077" ry="3.077" transform="translate(5.641 6.41)"/>
+  </g>
+</svg>

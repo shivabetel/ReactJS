@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="3807.01 10856.01 9.98 5.98">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #214796;
+        stroke-linecap: round;
+        stroke-linejoin: bevel;
+        stroke-miterlimit: 10;
+        stroke-width: 1.4px;
+      }
+    </style>
+  </defs>
+  <g id="ic_dropdown" transform="translate(3575 10536)">
+    <line id="Line_2071" data-name="Line 2071" class="cls-1" x1="4" y1="4" transform="translate(241 321) rotate(90)"/>
+    <line id="Line_2072" data-name="Line 2072" class="cls-1" x1="3.979" y2="4" transform="translate(237 321.021) rotate(90)"/>
+  </g>
+</svg>
